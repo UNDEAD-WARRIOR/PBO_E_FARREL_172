@@ -5,11 +5,11 @@ public class Login {
         Scanner sc = new Scanner(System.in);
 
         // data
-        String lastThreeDigits = "195";
+        String lastThreeDigits = "172";
         String usernameValid = "Admin" + lastThreeDigits;
         String passwordValid = "password" + lastThreeDigits;
-        String namaMahasiswa = "Vicky Leo Cahyo Putro";
-        String nomorMahasiwa = "202410370110195";
+        String namaMahasiswa = "Farrel Nadhif Otto Diyarno";
+        String nomorMahasiwa = "202410370110172";
 
         // Menampilkan pilihan login
         System.out.println("Pilih Jenis Login:");
